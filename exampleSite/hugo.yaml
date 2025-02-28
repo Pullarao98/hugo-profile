@@ -164,7 +164,6 @@ params:
     image: "/images/me.png"
     content: |-
       Cloud Operations Engineer with a strong drive to leverage cloud technologies for building and managing robust, scalable, and secure systems.
-
      I am committed to continuous learning and improvement, and I strive to make the most of every opportunity to contribute to the organization's success while advancing my professional growth.
     skills:
       enable: true
