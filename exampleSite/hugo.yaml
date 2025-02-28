@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://pullaraochinthapanti.com"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -137,7 +137,7 @@ params:
     title: "Pullarao Chinthapanti."
     subtitle: "Cloud Operations Engineer"
     content: "A passionate engineer with a passion for building and optimizing scalable and reliable cloud infrastructure."
-    image: /images/hero.svg
+    image: /images/my_image.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
