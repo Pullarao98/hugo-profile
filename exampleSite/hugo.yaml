@@ -189,8 +189,9 @@ params:
         date: "Sep 2023 - present"
         
         content: |
-        - "Monitoring, diagnosing"
-        - "Checking"
+        
+          - Monitoring, diagnosing
+          - Checking
          
 
 
