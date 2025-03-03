@@ -220,21 +220,7 @@ params:
           - Patch Management, Incident Management and User management using native-ad
   
 
-      - job: "Systems Engineer"
-        company: "Hardcastle Restaurants Pvt. Ltd"
-        companyUrl: "https://www.westlife.co.in/hrpl/"
-        date: "Jul 2017 - Mar 2022"
-        info:
-          enable: true
-          content: I Joined as a intern in this compnay and moved to full time in 1 year span.
-        content: |
-          I worked as a Systems Engineer at HRPL over 4.5 years.
-
-          - Technical Support to the users.
-          - Functional Hardwarre support.
-          - Streamlined Troubleshooting processes to improve systems efficiency and enhanced communication between support teams and end-users.
-          - Optimized Systems  by applying patches and updates.
-
+  
 
   # Education
   education:
@@ -244,14 +230,14 @@ params:
     items:
       - title: "Diploma in Civil Engineering"
         school:
-          name: "Jawaharlal Nehru Government College"
+          name: "Jawaharlal Nehru Government Polytechnic College"
           url: "https://sbtet.telangana.gov.in/"
         date: "2014 - 2018"
-        GPA: "3.8 out of 5.0"
+        GPA: "6 out of 10"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          
+            - Participated in Skill Development Center .
+            - Surveying and Estimation of Government Tender for a project.
   
   # Achievements
   achievements:
@@ -266,7 +252,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
