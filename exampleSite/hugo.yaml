@@ -187,12 +187,12 @@ params:
         company: "Alien Technology Transfer"
         companyUrl: "https://alientt.com/"
         date: "Sep 2023 - present"
-        content: "Monitoring, diagnosing, and troubleshooting server capacity and performance to keep up with demand in online traffic along with creating backup, archiving, and data retrieval procedures. Ensure high availability and acceptable levels of performance of mission-critical systems.
-              Determining company needs and coordinating the development and maintenance of network infrastructure and ensuring secure and stable server connectivity and testing network protocols across the different company locations.
-              User management in LDAP, IP-PBX, NAS, G-Workspace, CRM Tool and ticket management and resolution with other user management tasks along with System Administration and IP Networking.
-              Perform malware analysis and investigate incidents, incidence response, patch management, firmware updates on systems and servers, Access control, Certificate updates/renewal.
-              "Provide remediation and attack prevention to various systems/servers, design best practices for system/server usage, and prepare documents for user policies for organization-wide users.
-              Collate and analyse events from host and network device log files(firewall, system logs, server logs) and Windows Event Log Analysis."
+         featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://example.com"
+        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+
 
       - job: "Software Developer"
         company: "Amazon"
