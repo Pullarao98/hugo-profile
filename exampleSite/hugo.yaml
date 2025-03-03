@@ -258,7 +258,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: AWS Cloud Quest: Cloud Practitioner
+      - title: "AWS Cloud Quest: Cloud Practitioner"
         content: 
         url: https://www.credly.com/badges/3e57af5e-001e-462b-869d-662878185c2e/linked_in_profile
         image: /images/cloud quest.png
