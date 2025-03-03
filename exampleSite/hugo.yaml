@@ -317,14 +317,14 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 3
+      count: 0
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
+      github: https://github.com/Pullarao98
+      linkedin: https://www.linkedin.com/in/pullarao-chinthapanti-50220624a/
+      twitter: https://x.com/chintapanti
       instagram: https://instagram.com
       facebook: https://facebook.com
 
