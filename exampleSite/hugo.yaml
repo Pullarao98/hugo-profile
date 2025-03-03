@@ -188,7 +188,7 @@ params:
         companyUrl: "https://alientt.com/"
         date: "Sep 2023 - present"
         
-        items: 
+        content: |
         - "Monitoring, diagnosing"
         - "Checking"
          
