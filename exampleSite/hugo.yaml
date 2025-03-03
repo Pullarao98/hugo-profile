@@ -137,9 +137,9 @@ params:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
-      url: "https://drive.google.com/drive/u/0/folders/13KiBJCtrBSWvNNMpqBXJFKbgwrP6UbE3"
+      url: ""
       download: true
       newPage: false
     socialLinks:
