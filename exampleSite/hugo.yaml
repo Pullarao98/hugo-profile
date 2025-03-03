@@ -188,12 +188,15 @@ params:
         companyUrl: "https://alientt.com/"
         date: "Sep 2023 - present"
         
-        content: 
+        content: |
         - "Monitoring, diagnosing, and troubleshooting server capacity and performance to keep up with demand in online traffic along with creating backup, archiving, and data retrieval procedures. Ensure high availability and acceptable levels of performance of mission-critical systems"
+        - "Determining company needs and coordinating the development and maintenance of network infrastructure and ensuring secure and stable server connectivity and testing network protocols across the different company locations"
+        - "User management in LDAP, IP-PBX, NAS, G-Workspace, CRM Tool and ticket management and resolution with other user management tasks along with System Administration and IP Networking."
+        - "Perform malware analysis and investigate incidents, incidence response, patch management, firmware updates on systems and servers, Access control, Certificate updates/renewal."
+        - "Provide remediation and attack prevention to various systems/servers, design best practices for system/server usage, and prepare documents for user policies for organization-wide users."
+        - "Collate and analyse events from host and network device log files(firewall, system logs, server logs) and Windows Event Log Analysis."
+        - "Manage and monitor servers and systems for advanced detection and response to security threats and responses."
 
-- "Determining company needs and coordinating the development and maintenance of network infrastructure and ensuring secure and stable server connectivity and testing network protocols across the different company locations"
-
-- "User management in LDAP, IP-PBX, NAS, G-Workspace, CRM Tool and ticket management and resolution with other user management tasks along with System Administration and IP Networking."
 
 
       - job: "Software Developer"
