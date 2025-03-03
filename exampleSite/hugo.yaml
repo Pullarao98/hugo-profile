@@ -1,7 +1,7 @@
 baseURL: "https://pullaraochinthapanti.com"
 languageCode: "en-us"
 title: "Pullarao Chinthapanti"
-theme: hugo-profile
+theme: Pullarao Chinthapanti
 
 outputs:
   home:
