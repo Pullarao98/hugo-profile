@@ -315,12 +315,6 @@ params:
     #   messageRows: 5
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 0
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/Pullarao98
       linkedin: https://www.linkedin.com/in/pullarao-chinthapanti-50220624a/
