@@ -139,7 +139,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/drive/u/0/folders/13KiBJCtrBSWvNNMpqBXJFKbgwrP6UbE3"
       download: true
       newPage: false
     socialLinks:
