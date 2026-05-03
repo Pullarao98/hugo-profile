@@ -243,6 +243,11 @@ params:
         content: 
         url: https://www.credly.com/badges/3e57af5e-001e-462b-869d-662878185c2e/linked_in_profile
         image: /images/cloud quest.png
+
+       - title: "Google AI Professional Certificate"
+        content: 
+        url: https://www.credly.com/earner/earned/badge/2a7eefb9-828c-40dd-aaf1-2753b227383c/linked_in_profile
+        image: /images/google-ai-professional-certificate.png  
       
 
   # projects
